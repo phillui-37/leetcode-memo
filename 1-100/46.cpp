@@ -35,3 +35,8 @@ public:
     }
 };
 
+int main(int argc, char const *argv[])
+{
+    auto obj = Solution();
+    return 0;
+}
