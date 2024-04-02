@@ -11,3 +11,4 @@ self leetcode memo, may use different language to solve same issue
 |---|---|
 |46|[46.cpp](1-100/46.cpp),[46.hs](1-100/46.hs)|
 |88|[88.cpp](1-100/88.cpp)|
+|27|[27.cpp](1-100/27.cpp)|
